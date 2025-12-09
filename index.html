@@ -12,7 +12,7 @@
       content="nutrição, emagrecimento, saúde, plano alimentar, dieta personalizada"
     />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <title>Dra. Nutri | Nutrição Sem Neura</title>
+    <title>Dra. Eduarda Goulart| Nutrição Sem Neura</title>
 
     <link
       href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap"
@@ -25,13 +25,13 @@
   <body>
     <header>
       <div class="container header-container">
-        <div class="logo">Dra. Nutri</div>
+        <div class="logo"><a href="#home">Eduarda Goulart Nutri</a></div>
         <nav>
           <ul>
-            <li><a href="#metodo">O Método</a></li>
-            <li><a href="#servicos">Serviços</a></li>
-            <li><a href="#depoimentos">Depoimentos</a></li>
-            <li><a href="#sobre">Sobre Mim</a></li>
+            <li class="nav_item"><a href="#metodo">Método</a></li>
+            <li class="nav_item"><a href="#servicos">Serviços</a></li>
+            <li class="nav_item"><a href="#depoimentos">Depoimentos</a></li>
+            <li class="nav_item"><a href="#sobre">Sobre Mim</a></li>
           </ul>
         </nav>
         <a href="#contato" class="btn btn-outline">Agendar</a>
@@ -57,7 +57,7 @@
     </header>
 
     <!-- HERO SECTION -->
-    <section class="hero">
+    <section class="hero" id="home">
       <div class="container hero-content">
         <div class="hero-text">
           <h1>Transforme sua relação com a comida sem dietas malucas.</h1>
@@ -67,18 +67,15 @@
           </p>
           <a
             rel="noopener noreferrer"
-            href="https://wa.me/"
+            href="https://wa.me/+553791993867"
             target="_blank"
-            class="btn btn-primary"
+            class="btn btn-hero"
             >Quero Agendar Minha Avaliação</a
           >
           <p class="small-text">🔒 Atendimento Online e Presencial</p>
         </div>
         <div class="hero-image">
-          <img
-            src="img/Nutricionista-sorrindo-com-alimentos-saudáveis.jpg"
-            alt="Nutricionista sorrindo com alimentos saudáveis"
-          />
+          <img src="img/comida.jpg" alt="Alimentos" />
         </div>
       </div>
     </section>
@@ -210,12 +207,12 @@
       <div class="container about-container">
         <div class="about-img">
           <img
-            src="img/nutricionista.jpg"
-            alt="Foto da Nutricionista Dra. Nutri"
+            src="img/Dra. Eduarda Goulart.png"
+            alt="Foto da Nutricionista Eduarda Goulart"
           />
         </div>
         <div class="about-text">
-          <h2>Olá, eu sou a Dra. Nutri!</h2>
+          <h2>Olá, eu sou a Dra. Eduarda Goulart!</h2>
           <p>
             Sou Nutricionista e especialista em Comportamento Alimentar. Minha
             missão é te mostrar que o caminho para o corpo e saúde que você
@@ -232,6 +229,87 @@
             Vamos juntos construir um relacionamento saudável e duradouro com a
             comida, focando no seu bem-estar integral.
           </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="localizacao">
+      <div class="localizacao-container">
+        <h2 class="section-title">Nossa Localização</h2>
+
+        <div class="localizacao-content">
+          <div class="endereco-info">
+            <div class="endereco-card">
+              <div class="endereco-icon">
+                <i class="fa-solid fa-location-dot"></i>
+              </div>
+              <div class="endereco-details">
+                <h4>Consultório Dra. Eduarda Goulart</h4>
+                <p>Rua Guilherme Nunes, 335 - Centro</p>
+                <p>Carmo do Cajuru - Minas Gerais, CEP: 35557-000</p>
+                <div class="endereco-meta">
+                  <span
+                    ><i class="fa-solid fa-clock"></i> Seg-Sex: 8h-18h | Sáb:
+                    8h-12h</span
+                  >
+                  <span
+                    ><i class="fa-solid fa-phone"></i> (51) +55 37
+                    91993867</span
+                  >
+                </div>
+              </div>
+            </div>
+
+            <div class="destaques-localizacao">
+              <div class="destaque-item">
+                <i class="fa-solid fa-parking"></i>
+                <span>Estacionamento Gratuito</span>
+              </div>
+              <div class="destaque-item">
+                <i class="fa-solid fa-wheelchair"></i>
+                <span>Acessibilidade</span>
+              </div>
+              <div class="destaque-item">
+                <i class="fa-solid fa-bus"></i>
+                <span>Fácil Acesso</span>
+              </div>
+              <div class="destaque-item">
+                <i class="fa-solid fa-wifi"></i>
+                <span>Wi-Fi Gratuito</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="mapa-container">
+            <div class="mapa-wrapper">
+              <iframe
+                src="https://maps.google.com/maps?q=R. Guilherme Nunes, 335, Carmo do Cajuru, MG&t=&z=15&ie=UTF8&iwloc=&output=embed"
+                width="100%"
+                height="100%"
+                style="border: 0; border-radius: 15px"
+                allowfullscreen=""
+                loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"
+              >
+              </iframe>
+
+              <div class="mapa-actions">
+                <a
+                  rel="noopener noreferrer"
+                  href="https://maps.google.com/?q=Rua+Guilherme Nunes,335,Centro,Carmo do Cajuru,MG"
+                  target="_blank"
+                  class="btn-default outline"
+                >
+                  <i class="fa-solid fa-route"></i>
+                  Como Chegar
+                </a>
+                <a href="tel:+5551999999999" class="btn-default outline">
+                  <i class="fa-solid fa-phone"></i>
+                  Ligar Agora
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
       </div>
     </section>
@@ -269,7 +347,7 @@
     <footer id="contato">
       <div class="container">
         <h2>Vamos começar sua transformação hoje?</h2>
-        <a href="https://wa.me/" class="btn btn-primary btn-large"
+        <a href="https://wa.me/+553791993867" class="btn btn-primary btn-large"
           >Agendar via WhatsApp</a
         >
         <div class="social-links">
@@ -277,18 +355,20 @@
             Instagram:
             <a
               rel="noopener noreferrer"
-              href="https://instagram.com/dranutri"
+              href="https://instagram.com/dudagoulartnutri"
               target="_blank"
-              >@dranutri</a
+              >@dudagoulartnutri</a
             >
           </p>
           <p>
             Email:
-            <a href="mailto:contato@dranutri.com">contato@dranutri.com</a>
+            <a href="mailto:contato@eduardagoulart.com"
+              >contato@eduardagoulart.com</a
+            >
           </p>
         </div>
         <p class="copyright">
-          &copy; 2025 Dra. Nutri. - Todos os direitos reservados.
+          &copy; 2025 Dra. Eduarda Goulart. - Todos os direitos reservados.
         </p>
       </div>
     </footer>
