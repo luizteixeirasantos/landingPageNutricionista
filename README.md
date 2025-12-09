@@ -16,7 +16,6 @@
 - [Estrutura de Arquivos](#-estrutura-de-arquivos)
 - [Funcionalidades Principais](#-funcionalidades-principais)
 - [Configuração e Execução](#-configuração-e-execução)
-- [Paleta de Cores](#-paleta-de-cores)
 - [Dependências Externas](#-dependências-externas)
 - [Licença](#-licença)
 - [Colaboradores](#-colaboradores)
@@ -93,22 +92,6 @@ Clone ou baixe a pasta do projeto.
 Abra o arquivo index.html em qualquer navegador web moderno.
 
 Nota: Para que o projeto funcione perfeitamente, certifique-se de que os arquivos CSS e JS estejam salvos na estrutura de pastas correta (css/ e js/).
-
----
-
-<br>
-
-### 🎨 Paleta de Cores
-As cores da marca são definidas em style.css (na seção :root)
-
-```
-:Variável CSS       Cor (Hex)       Descrição
---primary-green     #5F6F3F         Verde Principal (Marca/Elementos Primários)
---light-green       #9EBC8A         Verde Claro (Secundário/Background)
---accent-orange     #FF7F50         Laranja/Coral (Ação/Botões Primários)
---text-dark         #333333         Cor de Texto Principal
-
-```
 
 ---
 
