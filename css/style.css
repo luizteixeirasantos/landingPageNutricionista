@@ -273,7 +273,7 @@ nav ul {
     padding: 100px 0;
     background-color: var(--primary-green);
     text-align: center;
-    color: var(--white);
+    color: var(--light-green);
 }
 
 .method-content {
@@ -282,7 +282,7 @@ nav ul {
 }
 
 .methodology h2 {
-    color: var(--white);
+    color: var(--text-dark);
 }
 
 .method-content p {
@@ -299,6 +299,12 @@ nav ul {
     border-radius: 20px;
     box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
     color: var(--text-dark);
+    transition: transform 0.3s;
+}
+
+.check-list:hover {
+    transform: translateY(-10px);
+    transition: all 0.3s ease-in-out;
 }
 
 .check-list li {
