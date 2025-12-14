@@ -59,3 +59,37 @@ prevButton.addEventListener("click", () => {
 nextButton.addEventListener("click", () => {
   update(1);
 });
+
+// Escrever mensagem automática no WhatsApp
+
+// Consulta Online
+function whatsAppConsultaOnline() {
+  const mensagem = `Olá! Tenho interesse na Consulta Online.
+Busco praticidade e gostaria de saber como funciona o atendimento por videochamada, o plano alimentar via app e o acompanhamento. Pode me passar mais informações?`;
+  const url = `https://wa.me/553791993867?text=${encodeURIComponent(mensagem)}`;
+  window.open(url, "_blank");
+}
+
+// Acompanhamento Premium
+function whatsAppAcompanhamentoPremium() {
+  const mensagem = `Olá! Tenho interesse no Acompanhamento Premium.
+Gostaria de um suporte mais completo, com consultas regulares, ajustes no cardápio e acompanhamento pelo WhatsApp. Pode me explicar como funciona e valores?`;
+  const url = `https://wa.me/553791993867?text=${encodeURIComponent(mensagem)}`;
+  window.open(url, "_blank");
+}
+
+// Carmo clinica / MG
+function whatsAppCarmoClinica() {
+  const mensagem = `Olá! Tenho interesse no atendimento presencial na Carmo Clínica, em Carmo do Cajuru – MG.
+Gostaria de agendar um horário e saber mais sobre a avaliação e o acompanhamento oferecido. Pode me ajudar, por favor?`;
+  const url = `https://wa.me/553791993867?text=${encodeURIComponent(mensagem)}`;
+  window.open(url, "_blank");
+}
+
+// Amanda Pazzolini - Mateus Leme / MG
+function whatsAppMateusLeme() {
+  const mensagem = `Olá! Tenho interesse no atendimento presencial no Espaço Ananda Pozzolini, em Mateus Leme – MG.
+Gostaria de agendar um horário e receber mais informações sobre a consulta presencial. Pode me passar os detalhes, por favor?`;
+  const url = `https://wa.me/553791993867?text=${encodeURIComponent(mensagem)}`;
+  window.open(url, "_blank");
+}

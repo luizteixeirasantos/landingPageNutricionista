@@ -64,6 +64,7 @@
     border: 2.5px solid var(--text-dark);
     transition: all 0.3s ease-in-out;
 }
+
 .endereco-card.destaque-domicilio:hover {
     border: 2px dashed var(--text-dark);
 }
@@ -105,6 +106,10 @@
     font-weight: 600;
     display: inline-block;
     margin-top: 5px;
+}
+
+.endereco-meta a {
+    cursor: pointer !important;
 }
 
 /* Destaque para Atendimento Domiciliar */
