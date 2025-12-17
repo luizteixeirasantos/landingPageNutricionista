@@ -37,13 +37,14 @@
     position: fixed;
     top: 0;
     left: 50%;
-    width: 50%;
+    width: 100%;
+    max-width: 50%;
     height: 100%;
     background-color: #1f2937;
     z-index: 2;
     transform: scale(0);
     transform: translateX(100%);
-    transition: all 0.7s ease-in-out;
+    transition: all 0.3s ease-in-out;
 }
 
 .menu {
@@ -75,6 +76,7 @@
     border: 1px solid #f4f4f1;
     border-radius: 5px;
     display: inline-block;
+    align-items: center;
 }
 
 .menu a {
