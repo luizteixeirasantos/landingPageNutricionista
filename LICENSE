@@ -1,21 +1,66 @@
-MIT License
+# LICENSE
 
-Copyright (c) 2025 Luiz H Teixeira Santos
+Copyright (c) 2025 Luiz H. Teixeira Santos
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Todos os direitos reservados.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Este repositório contém o **código-fonte da Landing Page profissional da Dra. Eduarda Goulart – Nutrição Sem Neura**, desenvolvido sob demanda e destinado a uso específico.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Todo o conteúdo deste projeto, incluindo mas não se limitando a código-fonte, estrutura HTML, estilos CSS, scripts JavaScript, layout, identidade visual, textos, fluxos de navegação e documentação (doravante denominado "Software"), é de **propriedade intelectual exclusiva do autor**, salvo quando explicitamente indicado o contrário.
+
+---
+
+## Concessão de Licença
+
+É concedida uma licença **limitada, não exclusiva, não transferível e revogável**, permitindo:
+
+* Visualização do código para fins educacionais ou de avaliação;
+* Execução local do projeto **sem fins comerciais**;
+* Uso do Software exclusivamente para a presença digital da Dra. Eduarda Goulart.
+
+Nenhum direito de propriedade intelectual é transferido por meio desta licença.
+
+---
+
+## Restrições
+
+É **estritamente proibido a terceiros**, sem autorização prévia e expressa por escrito do autor:
+
+* Copiar, modificar, adaptar ou criar obras derivadas do Software;
+* Utilizar este projeto, total ou parcialmente, como base para outros sites, landing pages ou produtos digitais;
+* Distribuir, publicar, sublicenciar, vender, alugar ou ceder o Software;
+* Utilizar o código, layout ou estrutura para fins comerciais;
+* Remover ou alterar avisos de direitos autorais;
+* Alegar autoria total ou parcial do Software.
+
+### Exceção de Autoria
+
+As restrições acima **não se aplicam ao autor do projeto**, que mantém o direito irrestrito de reutilizar, adaptar, evoluir ou reaproveitar o código-fonte, layout, estrutura e conceitos técnicos deste Software em outros projetos, inclusive comerciais, desde que **não utilize identidade visual, nome, marca, textos, imagens ou quaisquer elementos exclusivos da Dra. Eduarda Goulart**.
+
+---
+
+## Conteúdo de Terceiros
+
+Imagens, fontes e outros recursos externos utilizados no projeto podem estar sujeitos a licenças próprias de seus respectivos autores e **não estão cobertos por esta licença**.
+
+---
+
+## Isenção de Garantias
+
+O Software é fornecido **"NO ESTADO EM QUE SE ENCONTRA" (AS IS)**, sem garantias expressas ou implícitas de qualquer natureza.
+
+---
+
+## Limitação de Responsabilidade
+
+Em nenhuma hipótese o autor será responsável por danos diretos, indiretos, incidentais, consequenciais ou perda de lucros decorrentes do uso ou da impossibilidade de uso deste Software.
+
+---
+
+## Rescisão
+
+O descumprimento de qualquer termo desta licença resultará na **rescisão imediata** do direito de uso, sem prejuízo das medidas legais cabíveis.
+
+---
+
+Para permissões comerciais adicionais ou licenciamento personalizado, entre em contato com o autor.
