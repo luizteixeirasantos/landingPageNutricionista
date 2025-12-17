@@ -1,10 +1,10 @@
-### <p align="center"> Dra. Nutri | Nutrição Sem Neura </p>
+### <p align="center"> Dra. Eduarda Goulart | Nutrição Sem Neura </p>
 
 <br>
 
 ![Status](https://img.shields.io/badge/status-finalizado-green)
 ![Versão](https://img.shields.io/badge/versão-1.0-blue)
-![Licença](https://img.shields.io/badge/licença-MIT-green)
+![Licença](https://img.shields.io/badge/licença-Proprietária-red)
 
 <br>
 
@@ -24,14 +24,14 @@
 
 ### 📄 Sobre o Projeto: 
 
-Este é o código-fonte da Landing Page profissional da Dra. Nutri, Nutricionista, focada em uma metodologia de "Nutrição Sem Neura" e planos alimentares personalizados.
+Este é o código-fonte da Landing Page profissional da Dra. Eduarda Goulart, Nutricionista, focada em uma metodologia de "Nutrição Sem Neura" e planos alimentares personalizados.
 
 ---
 
 <br>
 
 ### 🎯 Objetivo do Projeto
-O objetivo principal desta página é apresentar a metodologia da nutricionista, os serviços de consulta e acompanhamento, e capturar agendamentos, principalmente via WhatsApp, transformando visitantes em clientes.
+O objetivo principal desta página é apresentar a metodologia da Dra. Eduarda Goulart, seus serviços de consulta e acompanhamento, e capturar agendamentos, principalmente via WhatsApp, transformando visitantes em clientes.
 
 ---
 
@@ -59,6 +59,7 @@ A estrutura do projeto está organizada da seguinte forma:
 /
 ├── index.html                  (Página principal do projeto, inclui correção para o menu mobile)
 ├── README.md                   (Este arquivo)
+├── LICENSE                     (Arquivo da licensa do projeto)
 ├── css/
 │   ├── style.css               (Estilos globais, utilitários e layout principal)
 │   └── hamburgerMenu.css       (Estilos específicos para o menu mobile/hamburger)
@@ -72,7 +73,7 @@ A estrutura do projeto está organizada da seguinte forma:
 <br>
 
 ### ✨ Funcionalidades Principais
-Design Responsivo Otimizado: O layout se adapta perfeitamente a dispositivos móveis (< 769px) e desktops, com media queries revisadas.
+Design Responsivo Otimizado: O layout se adapta perfeitamente a dispositivos móveis (< 768px) e desktops, com media queries revisadas.
 
 - Navegação Fixa (Sticky): O cabeçalho permanece visível no topo da tela.
 
@@ -98,7 +99,7 @@ Nota: Para que o projeto funcione perfeitamente, certifique-se de que os arquivo
 <br>
 
 ### ⚠️ Dependências Externas
-- Fonte: Google Fonts - 'Poppins' (Importado via `<link>` no HTML).
+- Fonte: Google Fonts - 'Montserrat' (Importado via `<link>` no HTML).
 
 - Imagens: Os links ``(src="img/...")`` estão definidos, mas as imagens não estão incluídas no código base e devem ser adicionadas na pasta ``/img`` para visualização completa.
 
@@ -108,7 +109,7 @@ Nota: Para que o projeto funcione perfeitamente, certifique-se de que os arquivo
 
 ### 📜 Licença
 
-Este projeto está sob a licença MIT — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+Este projeto está sob uma licença proprietária — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
