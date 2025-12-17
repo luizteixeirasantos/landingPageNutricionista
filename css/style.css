@@ -154,6 +154,7 @@ nav ul {
     display: flex;
     list-style: none;
     gap: 25px;
+    padding: 6px;
 }
 
 .nav_item a {
