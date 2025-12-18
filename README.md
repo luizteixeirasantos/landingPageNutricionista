@@ -2,7 +2,7 @@
 
 <br>
 
-![Status](https://img.shields.io/badge/status-Em_Andamento-yellow)
+![Status](https://img.shields.io/badge/status-Em_Desenvolvimento-yellow)
 ![Versão](https://img.shields.io/badge/versão-1.0-blue)
 ![Licença](https://img.shields.io/badge/licença-Proprietária-red)
 
