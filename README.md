@@ -39,7 +39,7 @@ O objetivo principal desta página é apresentar a metodologia da Dra. Eduarda G
 <br>
 
 ### Link para Acesso
-<a href="https://luizteixeirasantos.github.io/landingPageNutricionista/">Clique Aqui!<a/>
+<a href="https://luizteixeirasantos.github.io/landingPageNutricionista/" target="_blank">Clique Aqui!<a/>
 
 ---
 
