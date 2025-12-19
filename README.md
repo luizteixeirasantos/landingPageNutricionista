@@ -12,6 +12,7 @@
 
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Objetivo do Projeto](#-objetivo-do-projeto)
+- [Link para Acesso](#-link-para-acesso)
 - [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [Estrutura de Arquivos](#-estrutura-de-arquivos)
 - [Funcionalidades Principais](#-funcionalidades-principais)
@@ -32,6 +33,13 @@ Este é o código-fonte da Landing Page profissional da Dra. Eduarda Goulart, Nu
 
 ### 🎯 Objetivo do Projeto
 O objetivo principal desta página é apresentar a metodologia da Dra. Eduarda Goulart, seus serviços de consulta e acompanhamento, e capturar agendamentos, principalmente via WhatsApp, transformando visitantes em clientes.
+
+---
+
+<br>
+
+### Link para Acesso
+<a href="https://luizteixeirasantos.github.io/landingPageNutricionista/">Clique Aqui!<a/>
 
 ---
 
