@@ -93,3 +93,23 @@ Gostaria de agendar um horário e receber mais informações sobre a consulta pr
   const url = `https://wa.me/553791993867?text=${encodeURIComponent(mensagem)}`;
   window.open(url, "_blank");
 }
+
+// Botão voltar ao topo
+const btnTopo = document.getElementById("btnTopo");
+
+// Mostrar botão ao rolar a página
+window.addEventListener("scroll", () => {
+  if (window.scrollY > 200) {
+    btnTopo.style.display = "block";
+  } else {
+    btnTopo.style.display = "none";
+  }
+});
+
+// Voltar ao topo ao clicar
+btnTopo.addEventListener("click", () => {
+  window.scrollTo({
+    top: 0,
+    behavior: "smooth",
+  });
+});
